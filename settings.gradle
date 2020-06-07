@@ -1,0 +1,2 @@
+rootProject.name='Lifecycleandroid'
+include ':app'
